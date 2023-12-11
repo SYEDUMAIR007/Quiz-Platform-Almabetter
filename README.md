@@ -12,11 +12,11 @@ A fully functional quiz platform that is easy to use and customizable for variou
 Built with
 Semantic HTML5 markup
 Custom CSS
-Mobile-first workflow
-React - JS library
-Redux - State management
-Vite - React framework
-Article summarizer - API
+- Mobile-first workflow
+- React - JS library
+- Redux - State management
+- Vite - React framework
+
 ### What I learned
 I learned how to implement redux for better state management along with react file structure.
 
