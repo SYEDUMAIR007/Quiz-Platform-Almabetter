@@ -15,6 +15,7 @@ Custom CSS
 - Mobile-first workflow
 - React - JS library
 - Redux - State management
+- Redux thunk
 - Vite - React framework
 
 ### What I learned
