@@ -1,4 +1,4 @@
-#Quiz-Platform
+# Quiz-Platform
 ## Table of contents
 
 - [Overview](#overview)
