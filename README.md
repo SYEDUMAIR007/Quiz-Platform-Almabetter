@@ -20,10 +20,10 @@ Article summarizer - API
 ### What I learned
 I learned how to implement redux for better state management along with react file structure.
 
-###Useful resources
+### Useful resources
 -[AlmaBetter]-"https://grow.almabetter.com/"
 
-##Author
+## Author
 Syed Umair
 
 Linkedin - @syed-md-umair
