@@ -7,7 +7,7 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
   ## Overview
-A fully functional quiz platform that is easy to use and customizable for various purposes, that can be easily customized for various purposes, such as educational quizzes, trivia quizzes, and personality quizzes. The platform has a user-friendly interface that allows users to easily create and manage quizzes. 
+A fully functional quiz platform that is easy to use and customizable for various purposes such as educational quizzes, trivia quizzes, and personality quizzes. The platform has a user-friendly interface that allows users to easily create and manage quizzes. 
  ### Built with
 Built with
 Semantic HTML5 markup
